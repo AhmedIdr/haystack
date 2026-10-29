@@ -14,7 +14,7 @@ scipy>=1.3.2
 scikit-learn>=1.0.0
 # Metrics or logging related
 seqeval
-mlflow==3.15.0
+mlflow==3.17.2
 # huggingface repository
 transformers==5.10.1
 # pickle extension for (de-)serialization
